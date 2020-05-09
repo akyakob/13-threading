@@ -1,0 +1,26 @@
+
+Thread safe coding is avoiding the use of global variables and instead using
+mutexes to control access.
+Each thread shares the single overall process stack space (8mb for each thread).
+Threading can improve performance by doing individual tasks with different
+threads instead of one a time.
+Threads can be used on a single CPU but performance will not be improved.
+
+pthread_create() takes in a thread state variable, pointer to the starting
+thread function, and pointer to stack return block to create a thread. 
+
+pthread_mutex_init(&lock, NULL) - variable lock is defined in the global space
+
+pthread_mutext_lock(&lock) - each thread checks lock before accessing shared
+resources, first process to call the function will block access for all other
+threads calling the same lock
+
+pthread_mutex_unlock(&lock) - called when access to resource is complete
+
+pthread_join() - mechanism to identify when a thread completes and collect
+the return value
+
+pthread_exit() - exiting a thread and returning a return code value
+
+sleep() - tells a part of the program to wait, causes the thread to be
+suspended from execution

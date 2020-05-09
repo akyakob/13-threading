@@ -1,0 +1,397 @@
+./hw13 -t 1 -s -v
+
+Starting 1 threads generating 1067458560 numbers
+
+Thread:0  ID:139798769587968 started
+Processed: 0 lines   0% complete
+Thread:0  track status:1  seg size:1067458560KB  data ptr:0x7f2570006010
+Thread: 0
+Processed: 10421623 lines   1% complete
+Processed: 21401161 lines   2% complete
+Processed: 32265441 lines   3% complete
+Processed: 43203994 lines   4% complete
+Processed: 54121460 lines   5% complete
+Processed: 64816645 lines   6% complete
+Processed: 75688691 lines   7% complete
+Processed: 86508288 lines   8% complete
+Processed: 97091739 lines   9% complete
+Processed: 108075552 lines  10% complete
+Processed: 118994145 lines  11% complete
+Processed: 129921515 lines  12% complete
+Processed: 140893180 lines  13% complete
+Processed: 151835065 lines  14% complete
+Processed: 162471177 lines  15% complete
+Processed: 173340392 lines  16% complete
+Processed: 184250215 lines  17% complete
+Processed: 194694164 lines  18% complete
+Processed: 205669114 lines  19% complete
+Processed: 216239366 lines  20% complete
+Processed: 226397343 lines  21% complete
+Processed: 236563603 lines  22% complete
+Processed: 246677949 lines  23% complete
+Processed: 256994443 lines  24% complete
+Processed: 267887766 lines  25% complete
+Processed: 278782317 lines  26% complete
+Processed: 289823393 lines  27% complete
+Processed: 300765724 lines  28% complete
+Processed: 311751625 lines  29% complete
+Processed: 322755800 lines  30% complete
+Processed: 333811141 lines  31% complete
+Processed: 344810411 lines  32% complete
+Processed: 355769557 lines  33% complete
+Processed: 366935762 lines  34% complete
+Processed: 377924735 lines  35% complete
+Processed: 388859699 lines  36% complete
+Processed: 399796758 lines  37% complete
+Processed: 410740032 lines  38% complete
+Processed: 421591295 lines  39% complete
+Processed: 432631078 lines  41% complete
+Processed: 443589069 lines  42% complete
+Processed: 454451027 lines  43% complete
+Processed: 465275326 lines  44% complete
+Processed: 476183684 lines  45% complete
+Processed: 487040250 lines  46% complete
+Processed: 497804983 lines  47% complete
+Processed: 508503228 lines  48% complete
+Processed: 519345027 lines  49% complete
+Processed: 530245813 lines  50% complete
+Processed: 541190520 lines  51% complete
+Processed: 552121081 lines  52% complete
+Processed: 563046050 lines  53% complete
+Processed: 573985982 lines  54% complete
+Processed: 584929397 lines  55% complete
+Processed: 595884864 lines  56% complete
+Processed: 606821317 lines  57% complete
+Processed: 617874791 lines  58% complete
+Processed: 628825736 lines  59% complete
+Processed: 639813753 lines  60% complete
+Processed: 650782068 lines  61% complete
+Processed: 661771203 lines  62% complete
+Processed: 672333128 lines  63% complete
+Processed: 683295660 lines  64% complete
+Processed: 694330787 lines  65% complete
+Processed: 705339732 lines  66% complete
+Processed: 716153989 lines  67% complete
+Processed: 727079444 lines  68% complete
+Processed: 737960652 lines  69% complete
+Processed: 748849323 lines  70% complete
+Processed: 759721447 lines  71% complete
+Processed: 770609964 lines  72% complete
+Processed: 781451908 lines  73% complete
+Processed: 792252323 lines  74% complete
+Processed: 803137463 lines  75% complete
+Processed: 814077077 lines  76% complete
+Processed: 825001061 lines  77% complete
+Processed: 835950837 lines  78% complete
+Processed: 846849919 lines  79% complete
+Processed: 857783415 lines  80% complete
+Processed: 868688327 lines  81% complete
+Processed: 879679484 lines  82% complete
+Processed: 890530988 lines  83% complete
+Processed: 901520403 lines  84% complete
+Processed: 912336156 lines  85% complete
+Processed: 923313629 lines  86% complete
+Processed: 934229118 lines  88% complete
+Processed: 945195364 lines  89% complete
+Processed: 956144636 lines  90% complete
+Processed: 967307294 lines  91% complete
+Processed: 978197933 lines  92% complete
+Processed: 989152673 lines  93% complete
+Processed: 1000041861 lines  94% complete
+Processed: 1010870627 lines  95% complete
+Processed: 1021828073 lines  96% complete
+Processed: 1032799689 lines  97% complete
+Processed: 1043777797 lines  98% complete
+Processed: 1054637716 lines  99% complete
+Processed: 1065485834 lines 100% complete
+Total wall time = 99 sec
+Verifying results...  success
+
+ 
+./hw13 -t 5 -s
+
+Starting 5 threads generating 1067458560 numbers
+
+Processed: 355 lines   0% complete
+Processed: 4315506 lines   0% complete
+Processed: 8674077 lines   1% complete
+Processed: 13002804 lines   1% complete
+Processed: 17591373 lines   2% complete
+Processed: 21789976 lines   2% complete
+Processed: 26110397 lines   2% complete
+Processed: 30212923 lines   3% complete
+Processed: 34641451 lines   3% complete
+Processed: 38888905 lines   4% complete
+Processed: 43001736 lines   4% complete
+Processed: 47146627 lines   4% complete
+Processed: 51196378 lines   5% complete
+Processed: 55393054 lines   5% complete
+Processed: 59473450 lines   6% complete
+Processed: 64699231 lines   6% complete
+Processed: 68773913 lines   6% complete
+Processed: 73330190 lines   7% complete
+Processed: 77768066 lines   7% complete
+Processed: 82195140 lines   8% complete
+Processed: 86560898 lines   8% complete
+Processed: 93293929 lines   9% complete
+Processed: 98574270 lines   9% complete
+Processed: 103645305 lines  10% complete
+Processed: 108152528 lines  10% complete
+Processed: 113487113 lines  11% complete
+Processed: 117730071 lines  11% complete
+Processed: 121929828 lines  11% complete
+Processed: 126184867 lines  12% complete
+Processed: 130421990 lines  12% complete
+Processed: 136469963 lines  13% complete
+Processed: 143507928 lines  13% complete
+Processed: 148067824 lines  14% complete
+Processed: 152337067 lines  14% complete
+Processed: 156124367 lines  15% complete
+Processed: 161692446 lines  15% complete
+Processed: 166025888 lines  16% complete
+Processed: 170187332 lines  16% complete
+Processed: 173907234 lines  16% complete
+Processed: 179632643 lines  17% complete
+Processed: 184756989 lines  17% complete
+Processed: 194163910 lines  18% complete
+Processed: 203321838 lines  19% complete
+Processed: 212434855 lines  20% complete
+Processed: 220034902 lines  21% complete
+Processed: 229912400 lines  22% complete
+Processed: 240961159 lines  23% complete
+Processed: 250858866 lines  24% complete
+Processed: 260172703 lines  24% complete
+Processed: 269782030 lines  25% complete
+Processed: 273453098 lines  26% complete
+Processed: 276867342 lines  26% complete
+Processed: 279988612 lines  26% complete
+Processed: 283286386 lines  27% complete
+Processed: 287193310 lines  27% complete
+Processed: 291226519 lines  27% complete
+Processed: 295299371 lines  28% complete
+Processed: 299203004 lines  28% complete
+Processed: 303175185 lines  28% complete
+Processed: 307174573 lines  29% complete
+Processed: 311282699 lines  29% complete
+Processed: 315981873 lines  30% complete
+Processed: 320044967 lines  30% complete
+Processed: 324249794 lines  30% complete
+Processed: 328417204 lines  31% complete
+Processed: 332552397 lines  31% complete
+Processed: 337242276 lines  32% complete
+Processed: 341288288 lines  32% complete
+Processed: 345178310 lines  32% complete
+Processed: 349332926 lines  33% complete
+Processed: 353466267 lines  33% complete
+Processed: 357470942 lines  33% complete
+Processed: 361528335 lines  34% complete
+Processed: 365591501 lines  34% complete
+Processed: 369780731 lines  35% complete
+Processed: 373731906 lines  35% complete
+Processed: 377676666 lines  35% complete
+Processed: 381704431 lines  36% complete
+Processed: 386089698 lines  36% complete
+Processed: 390537113 lines  37% complete
+Processed: 394714780 lines  37% complete
+Processed: 398882698 lines  37% complete
+Processed: 402850558 lines  38% complete
+Processed: 407379554 lines  38% complete
+Processed: 410878290 lines  38% complete
+Processed: 417412451 lines  39% complete
+Processed: 421871946 lines  40% complete
+Processed: 425672900 lines  40% complete
+Processed: 429609704 lines  40% complete
+Processed: 433501533 lines  41% complete
+Processed: 437089064 lines  41% complete
+Processed: 441048705 lines  41% complete
+Processed: 444659797 lines  42% complete
+Processed: 448195686 lines  42% complete
+Processed: 451724597 lines  42% complete
+Processed: 455308485 lines  43% complete
+Processed: 458875767 lines  43% complete
+Processed: 462449911 lines  43% complete
+Processed: 466186665 lines  44% complete
+Processed: 469760650 lines  44% complete
+Processed: 473729145 lines  44% complete
+Processed: 477307071 lines  45% complete
+Processed: 481918234 lines  45% complete
+Processed: 486091063 lines  46% complete
+Processed: 490035727 lines  46% complete
+Processed: 494609355 lines  46% complete
+Processed: 500945674 lines  47% complete
+Processed: 505497158 lines  47% complete
+Processed: 511894611 lines  48% complete
+Processed: 516478041 lines  48% complete
+Processed: 522879673 lines  49% complete
+Processed: 528107659 lines  49% complete
+Processed: 536145245 lines  50% complete
+Processed: 540622516 lines  51% complete
+Processed: 544909301 lines  51% complete
+Processed: 549265045 lines  51% complete
+Processed: 553583052 lines  52% complete
+Processed: 558019651 lines  52% complete
+Processed: 561895957 lines  53% complete
+Processed: 565686732 lines  53% complete
+Processed: 569302402 lines  53% complete
+Processed: 573083638 lines  54% complete
+Processed: 576659799 lines  54% complete
+Processed: 580515013 lines  54% complete
+Processed: 584105702 lines  55% complete
+Processed: 587898413 lines  55% complete
+Processed: 592074412 lines  55% complete
+Processed: 595859706 lines  56% complete
+Processed: 599481594 lines  56% complete
+Processed: 603260361 lines  57% complete
+Processed: 606888998 lines  57% complete
+Processed: 610657285 lines  57% complete
+Processed: 614278772 lines  58% complete
+Processed: 618262607 lines  58% complete
+Processed: 621828640 lines  58% complete
+Processed: 625386891 lines  59% complete
+Processed: 628949550 lines  59% complete
+Processed: 632487030 lines  59% complete
+Processed: 636081079 lines  60% complete
+Processed: 639694858 lines  60% complete
+Processed: 643443930 lines  60% complete
+Processed: 647065460 lines  61% complete
+Processed: 650796668 lines  61% complete
+Processed: 654419249 lines  61% complete
+Processed: 658251130 lines  62% complete
+Processed: 661839667 lines  62% complete
+Processed: 665588566 lines  62% complete
+Processed: 669170621 lines  63% complete
+Processed: 672966840 lines  63% complete
+Processed: 676566310 lines  63% complete
+Processed: 680300828 lines  64% complete
+Processed: 683877631 lines  64% complete
+Processed: 687575503 lines  64% complete
+Processed: 691154183 lines  65% complete
+Processed: 695730351 lines  65% complete
+Processed: 699280262 lines  66% complete
+Processed: 702799354 lines  66% complete
+Processed: 706303947 lines  66% complete
+Processed: 709846490 lines  66% complete
+Processed: 713453681 lines  67% complete
+Processed: 717460893 lines  67% complete
+Processed: 722080844 lines  68% complete
+Processed: 725982542 lines  68% complete
+Processed: 729583681 lines  68% complete
+Processed: 733388352 lines  69% complete
+Processed: 736975004 lines  69% complete
+Processed: 740717119 lines  69% complete
+Processed: 744531257 lines  70% complete
+Processed: 748605486 lines  70% complete
+Processed: 753004755 lines  71% complete
+Processed: 757400327 lines  71% complete
+Processed: 761685013 lines  71% complete
+Processed: 766005197 lines  72% complete
+Processed: 770152390 lines  72% complete
+Processed: 774453756 lines  73% complete
+Processed: 778522702 lines  73% complete
+Processed: 782682074 lines  73% complete
+Processed: 786747359 lines  74% complete
+Processed: 790779035 lines  74% complete
+Processed: 795008683 lines  74% complete
+Processed: 801399159 lines  75% complete
+Processed: 806153192 lines  76% complete
+Processed: 809704735 lines  76% complete
+Processed: 817019438 lines  77% complete
+Processed: 822208716 lines  77% complete
+Processed: 826721663 lines  77% complete
+Processed: 831174572 lines  78% complete
+Processed: 835176342 lines  78% complete
+Processed: 839446936 lines  79% complete
+Processed: 844214568 lines  79% complete
+Processed: 849075844 lines  80% complete
+Processed: 852571785 lines  80% complete
+Processed: 856737767 lines  80% complete
+Processed: 860972693 lines  81% complete
+Processed: 865587663 lines  81% complete
+Processed: 870973840 lines  82% complete
+Processed: 874414452 lines  82% complete
+Processed: 878114379 lines  82% complete
+Processed: 882446216 lines  83% complete
+Processed: 887005621 lines  83% complete
+Processed: 891356990 lines  84% complete
+Processed: 895602046 lines  84% complete
+Processed: 899588645 lines  84% complete
+Processed: 903899112 lines  85% complete
+Processed: 908725481 lines  85% complete
+Processed: 913057550 lines  86% complete
+Processed: 917077118 lines  86% complete
+Processed: 920742757 lines  86% complete
+Processed: 924505862 lines  87% complete
+Processed: 928769964 lines  87% complete
+Processed: 933301042 lines  87% complete
+Processed: 937832810 lines  88% complete
+Processed: 943440232 lines  88% complete
+Processed: 947540819 lines  89% complete
+Processed: 951073135 lines  89% complete
+Processed: 955000365 lines  89% complete
+Processed: 958675619 lines  90% complete
+Processed: 962692275 lines  90% complete
+Processed: 966800223 lines  91% complete
+Processed: 970746613 lines  91% complete
+Processed: 975159922 lines  91% complete
+Processed: 979261292 lines  92% complete
+Processed: 983613674 lines  92% complete
+Processed: 987735236 lines  93% complete
+Processed: 991662740 lines  93% complete
+Processed: 995724383 lines  93% complete
+Processed: 999573251 lines  94% complete
+Processed: 1003538227 lines  94% complete
+Processed: 1007440406 lines  94% complete
+Processed: 1011219378 lines  95% complete
+Processed: 1015628334 lines  95% complete
+Processed: 1019652389 lines  96% complete
+Processed: 1023766887 lines  96% complete
+Processed: 1027845257 lines  96% complete
+Processed: 1031900274 lines  97% complete
+Processed: 1035755898 lines  97% complete
+Processed: 1040001400 lines  97% complete
+Processed: 1045331365 lines  98% complete
+Processed: 1049556619 lines  98% complete
+Processed: 1053635631 lines  99% complete
+Processed: 1057955522 lines  99% complete
+Processed: 1066685685 lines 100% complete
+Total wall time = 242 sec
+Verifying results...  success
+
+ 
+./hw13 -t 8 -v
+
+Starting 8 threads generating 1067458560 numbers
+
+Thread:0  ID:139958445397760 started
+Thread:1  ID:139958437005056 started
+Thread:2  ID:139958428612352 started
+Thread:2  track status:0  seg size:133432320KB  data ptr:0x7f4add0c0010
+Thread: 2
+Thread:3  ID:139958420219648 started
+Thread:0  track status:0  seg size:133432320KB  data ptr:0x7f4a9d6be010
+Thread: 0
+Thread:4  ID:139958411826944 started
+Thread:5  ID:139958403434240 started
+Thread:6  ID:139958395041536 started
+Thread:7  ID:139958386648832 started
+Thread:3  track status:0  seg size:133432320KB  data ptr:0x7f4afcdc1010
+Thread: 3
+Thread:1  track status:0  seg size:133432320KB  data ptr:0x7f4abd3bf010
+Thread: 1
+Thread:4  track status:0  seg size:133432320KB  data ptr:0x7f4b1cac2010
+Thread: 4
+Thread:7  track status:0  seg size:133432320KB  data ptr:0x7f4b7c1c5010
+Thread: 7
+Thread:6  track status:0  seg size:133432320KB  data ptr:0x7f4b5c4c4010
+Thread: 6
+Thread:5  track status:0  seg size:133432320KB  data ptr:0x7f4b3c7c3010
+Thread: 5
+Total wall time = 20 sec
+Verifying results...  success
+
+ 
+./hw13 -t 0
+Number of threads should be greater than 0 and less than 9
+ 
+./hw13 -t 9
+Number of threads should be greater than 0 and less than 9
